@@ -1,0 +1,5 @@
+{
+  "name": "VocabKids",
+  "description": "A fun and interactive vocabulary learning app for kids with AI features.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
